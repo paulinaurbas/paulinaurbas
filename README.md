@@ -6,6 +6,7 @@
 
 ## About me:
 - Mobile developer 👩🏼‍💻
+- Computer Science Engineer 🎓
 - Flutter lover 💙
 - iOS 
 - Travel lover 🗺

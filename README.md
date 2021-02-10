@@ -4,7 +4,7 @@
 **paulinaurbas/paulinaurbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->
 
-[![Twitter Follow](https://img.shields.io/twitter)](https://twitter.com/paulina_urbas)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paulina_urbas?label=Follow)](https://twitter.com/paulina_urbas)
 
 ## About me:
 - Mobile developer 👩🏼‍💻

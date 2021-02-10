@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name= paulina_urbas "Follow on Twitter")
-
 <!--
 **paulinaurbas/paulinaurbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Actual text -->

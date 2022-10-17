@@ -11,6 +11,7 @@
 - Master in Computer Science 🎓
 - Flutter lover 💙
 - iOS developer
+- Open-source enthusiast
 - Travel lover 🗺
 
 ## Technologies

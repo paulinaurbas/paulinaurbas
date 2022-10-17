@@ -8,9 +8,9 @@
 
 ## About me:
 - Mobile developer 👩🏼‍💻
-- Computer Science Engineer 🎓
+- Master in Computer Science 🎓
 - Flutter lover 💙
-- iOS 
+- iOS developer
 - Travel lover 🗺
 
 ## Technologies
